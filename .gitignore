@@ -26,6 +26,7 @@ wheels/
 *.egg
 keys.py
 .idea/
+*.jpeg
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
